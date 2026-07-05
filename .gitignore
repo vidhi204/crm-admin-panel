@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Angular build outputs and caches
+.angular/
+dist/
+
+# Local databases and secrets
+database.sqlite
+.env
+
+# Editor files and logs
+.vscode/
+*.log
+.DS_Store
